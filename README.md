@@ -5,8 +5,8 @@ These notebooks cover a diverse range of topics within the realm of image proces
 1. Point Counting in Images.
 Explore the fundamentals of point counting using various techniques such as thresholding, mathematical morphology, and the implementation of a custom function dedicated to point counting.
 
-2. Martian and Lunar Crater Detection with FASTER R-CNN
+2. Martian and Lunar Crater Detection with FASTER R-CNN.
 Applying FASTER R-CNN (Region-based Convolutional Neural Network) to detect craters on Mars and the Moon. This section provides hands-on experience in training and utilizing a powerful deep learning model for object detection.
 
-3. Facial Emotion Recognition
+3. Facial Emotion Recognition.
 Experience the realm of facial emotion recognition through the application of different neural networks. This section compares the performance of various models to achieve the best results in recognizing and categorizing facial expressions.
